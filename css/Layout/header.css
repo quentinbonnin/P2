@@ -264,6 +264,9 @@ header > * {
     border-radius: var(--border-radius-xs);
     width: 15%;
   }
+  .header-search__button__mobile:hover {
+    background-color: rgb(38, 17, 158);
+  }
   .header-title {
     font-size: var(--font-size-base);
   }
